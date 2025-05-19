@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ProfileActivity</string>
+    <string name="profile">Profile</string>
+    <string name="support">support</string>
+    <string name="userName">aaliya khan</string>
+    <string name="userSince">member since Dec,2020</string>
+    <string name="get_to_know_your_vehicle_inside_out">get to know your vehicle ,inside out</string>
+    <string name="cred_garage">CRED garage</string>
+    <string name="credit_score">credit score</string>
+    <string name="refresh_available">• REFRESH AVAILABLE</string>
+    <string name="lifetime_cashback">lifetime cashback</string>
+    <string name="bank_balance">bank balance</string>
+    <string name="check">check</string>
+    <string name="your_rewards_and_benefits"><![CDATA[YOUR REWARDS & BENEFITS]]></string>
+    <string name="cashback_balance">cashback balance</string>
+    <string name="coins">coins</string>
+    <string name="win_upto_rs_1000">win upto Rs 1000</string>
+    <string name="refer_and_earn">refer and earn</string>
+    <string name="transaction_and_support"><![CDATA[TRANSACTION & SUPPORT]]></string>
+    <string name="all_transaction">all transaction</string>
+</resources>
